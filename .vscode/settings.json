@@ -1,3 +1,4 @@
 {
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "julia.environmentPath": "/Users/kimonanagnostopoulos/Desktop/Intro to CS/Assignment 1 - Codebase"
 }
